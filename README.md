@@ -13,4 +13,4 @@ To build this project:
 
 4: Run "cmake --build ."
 
-5: RUN VIA COMMAND LINE: ./pathfinder DIRECTORY_TO_INPUT OUTPUT_NAME.PNG (Example input mazes can be found under tests in the main folder
+5: RUN VIA COMMAND LINE: "./pathfinder DIRECTORY_TO_INPUT OUTPUT_NAME.PNG" (Example input mazes can be found under tests in the main folder
