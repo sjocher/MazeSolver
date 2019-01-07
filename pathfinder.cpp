@@ -99,7 +99,7 @@ bool redCounter(Image<Pixel> inputMaze)
 			}
 		}
 	}
-	if (redCounter = 0 || redCounter >= 2)
+	if (redCounter == 0 || redCounter >= 2)
 	{
 		return false;
 	}
