@@ -1,6 +1,8 @@
 # MazeSolver
 Maze solver utilizing the breadth first search algorithm with a double ended queue
 
+DEPENDENCIES: CMAKE
+
 To build this project:
 
 1: Clone this repo
